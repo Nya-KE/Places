@@ -2,7 +2,7 @@
 ### Created by Thomas Nignan & Nyakio Mburu on the 24/09/18
 
 ## Description
-A website where you can keep track of all the places you've been. Each destination should be an object with multiple properties, like location, landmarks, time of year, notes, etc. Properties are displayed when a user clicks on a place's name. 
+A website where you can keep track of all the places you've been. Each destination should be an object with multiple properties, like location, landmarks, time of year, notes, etc. Properties are displayed when a user clicks on a place's name.
 
 ## Behavioural Driven Design
 |Specifications|Input Example|Output Example|
