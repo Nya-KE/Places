@@ -9,7 +9,8 @@ A website where you can keep track of all the places you've been. Each destinati
 |--------------|-------------|--------------|
 | User clicks country name and gets information about country |Greece| Athens, Parthenon, Summer, Colourful, Image, Moussaka  |
 
-
+## Known Bugs
+Fetching file from image property affect datatype of other properties .i.e turns text-type properties into files
 
 ## Technology Used
 * HTML
